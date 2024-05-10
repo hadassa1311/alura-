@@ -1,7 +1,11 @@
 *{ 
     margin: 0% 
-    padding:0%
+    padding 0%
 
+}
+
+body{
+    font-family:´Poppins`S , sans-serif;
 }
 
 .cabecalho { 
@@ -17,4 +21,7 @@
 .cabecalho-lista-item{
     display: inline-block;
 }
+
+    background-color: brown;
+    
 
